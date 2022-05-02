@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestApp", "TestApp\TestApp.vcxproj", "{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release x64|Win32 = Release x64|Win32
+		Release x64|x64 = Release x64|x64
+		Release x86|Win32 = Release x86|Win32
+		Release x86|x64 = Release x86|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Debug|Win32.Build.0 = Debug|Win32
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Debug|x64.ActiveCfg = Debug|x64
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Debug|x64.Build.0 = Debug|x64
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|Win32.ActiveCfg = TestApp x64|Win32
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|Win32.Build.0 = TestApp x64|Win32
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|x64.ActiveCfg = TestApp x64|x64
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|x64.Build.0 = TestApp x64|x64
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|Win32.ActiveCfg = Release|Win32
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|Win32.Build.0 = Release|Win32
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|x64.ActiveCfg = Release|x64
+		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

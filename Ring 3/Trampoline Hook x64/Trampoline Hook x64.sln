@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trampoline Hook x64", "Trampoline Hook x64\Trampoline Hook x64.vcxproj", "{1E82292C-B3E8-462B-AAB6-1ACC028778BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E82292C-B3E8-462B-AAB6-1ACC028778BE}.Debug|x64.ActiveCfg = Debug|x64
+		{1E82292C-B3E8-462B-AAB6-1ACC028778BE}.Debug|x64.Build.0 = Debug|x64
+		{1E82292C-B3E8-462B-AAB6-1ACC028778BE}.Release|x64.ActiveCfg = Release|x64
+		{1E82292C-B3E8-462B-AAB6-1ACC028778BE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
