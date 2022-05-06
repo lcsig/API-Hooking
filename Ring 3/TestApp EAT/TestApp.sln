@@ -11,8 +11,6 @@ Global
 		Debug|x64 = Debug|x64
 		Release x64|Win32 = Release x64|Win32
 		Release x64|x64 = Release x64|x64
-		Release x86 OptOff|Win32 = Release x86 OptOff|Win32
-		Release x86 OptOff|x64 = Release x86 OptOff|x64
 		Release x86|Win32 = Release x86|Win32
 		Release x86|x64 = Release x86|x64
 	EndGlobalSection
@@ -25,10 +23,6 @@ Global
 		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|Win32.Build.0 = TestApp x64|Win32
 		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|x64.ActiveCfg = TestApp x64|x64
 		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x64|x64.Build.0 = TestApp x64|x64
-		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86 OptOff|Win32.ActiveCfg = Release x86 OptOff|Win32
-		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86 OptOff|Win32.Build.0 = Release x86 OptOff|Win32
-		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86 OptOff|x64.ActiveCfg = Release x86 OptOff|x64
-		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86 OptOff|x64.Build.0 = Release x86 OptOff|x64
 		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|Win32.ActiveCfg = Release|Win32
 		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|Win32.Build.0 = Release|Win32
 		{6F8C8F2C-57CD-4AC1-A25B-3F57D8B27859}.Release x86|x64.ActiveCfg = Release|x64
