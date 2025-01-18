@@ -18,3 +18,7 @@ The included techniques are:
 #### Example 
 ![Ring_3](./img/1.gif)
 
+## Buy me a Coffee: 
+BTC: bc1q2kqvggm552h0csyr0awa2zepdapxdqnacw0z5w
+
+![BTC](./img/btc.png)
